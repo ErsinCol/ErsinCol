@@ -8,25 +8,11 @@
 > ![](https://img.shields.io/badge/-ersincol235@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&)
 
 ## Skills
-- 👨‍💻 Java, JavaScript, C#, 
-- ⚙️ Node.js, Spring
-- 💽 PostgreSQL, SQL, MongoDB
+- 👨‍💻 Java, JavaScript, HTML5, CSS3
+- ⚙️ Node.js, Vue.js, Tailwindcss, Bootstrap
+- 💽 PostgreSQL, SQL, MongoDB, Docker, Rabbitmq, Redis
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const ERSİN = {
-    code: ["Javascript", "Java", "C#"],
-    technologies: {
-        backEnd: {
-            js: ["Node.js", "Fastify", "Express"],
-            java: ["Java", "OOP", "Swing", "Spring"]
-        },
-        databases: ["Mongo", "MySql", "PostgreSql"],
-    },
-};
-```
-
 
 ---
 
