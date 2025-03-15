@@ -1,8 +1,6 @@
 # Hello, World! 👋
 
 I'm Ersin Çöl, a passionate software developer from Istanbul.
-
-- 🌱 I’m currently learning React.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ersincol/)
 
 <a href="https://github.com/anuraghazra/convoychat">
